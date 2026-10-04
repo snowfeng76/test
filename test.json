@@ -189,5 +189,11 @@
       "isAdult": false
     }
   ],
-  "liveSources": []
+  "liveSources": [
+    {
+      "name": "示例直播源",
+      "url": "https://example.com/list.m3u",
+      "epg": "https://example.com/epg.xml.gz"
+    }
+  ]
 }
