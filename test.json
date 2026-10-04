@@ -1,0 +1,193 @@
+{
+  "name": "我的源列表",
+  "version": 2,
+  "sources": [
+    {
+      "name": "暴风采集站",
+      "url": "https://publish.bfzy.tv/api.php/provide/vod/",
+      "detail": "https://publish.bfzy.tv",
+      "isAdult": false
+    },
+    {
+      "name": "非凡采集站",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "detail": "http://ffzy5.tv",
+      "isAdult": false
+    },
+    {
+      "name": "快看采集站",
+      "url": "https://kuaikanzy.net/api.php/provide/vod/",
+      "detail": "https://kuaikanzy.net",
+      "isAdult": false
+    },
+    {
+      "name": "乐视采集站",
+      "url": "https://www.leshizy1.com/api.php/provide/vod/",
+      "detail": "https://www.leshizy1.com",
+      "isAdult": false
+    },
+    {
+      "name": "量子采集站",
+      "url": "https://cj.lziapi.com/api.php/provide/vod/",
+      "detail": "http://lzizy.net",
+      "isAdult": false
+    },
+    {
+      "name": "索尼采集站",
+      "url": "https://suonizy.net/api.php/provide/vod/",
+      "detail": "https://suonizy.net",
+      "isAdult": false
+    },
+    {
+      "name": "红牛",
+      "url": "https://hongniuziyuan.net/api.php/provide/vod/",
+      "detail": "https://hongniuziyuan.net",
+      "isAdult": false
+    },
+    {
+      "name": "优质资源库",
+      "url": "https://1080zyk6.com/api.php/provide/vod/",
+      "detail": "https://1080zyk6.com",
+      "isAdult": false
+    },
+    {
+      "name": "鸭鸭资源库",
+      "url": "https://yayazy.com/api.php/provide/vod/",
+      "detail": "https://yayazy.com",
+      "isAdult": false
+    },
+    {
+      "name": "牛牛资源",
+      "url": "https://niuniuzy.cc/api.php/provide/vod/",
+      "detail": "https://niuniuzy.cc",
+      "isAdult": false
+    },
+    {
+      "name": "OK资源网",
+      "url": "https://okzyw.vip/api.php/provide/vod/",
+      "detail": "https://okzyw.vip",
+      "isAdult": false
+    },
+    {
+      "name": "49资源网",
+      "url": "https://49zyw.com/api.php/provide/vod/",
+      "detail": "https://49zyw.com",
+      "isAdult": false
+    },
+    {
+      "name": "360资源站",
+      "url": "https://360zy5.com/api.php/provide/vod/",
+      "detail": "https://360zy5.com",
+      "isAdult": false
+    },
+    {
+      "name": "奇虎资源站",
+      "url": "https://qihuzy4.com/api.php/provide/vod/",
+      "detail": "https://qihuzy4.com",
+      "isAdult": false
+    },
+    {
+      "name": "黑木耳",
+      "url": "https://www.heimuer.tv/api.php/provide/vod/",
+      "detail": "https://www.heimuer.tv",
+      "isAdult": false
+    },
+    {
+      "name": "华为",
+      "url": "https://cjhwba.com/api.php/provide/vod/",
+      "detail": "https://cjhwba.com",
+      "isAdult": false
+    },
+    {
+      "name": "九月",
+      "url": "https://jiuyuezy.com/api.php/provide/vod/",
+      "detail": "https://jiuyuezy.com",
+      "isAdult": false
+    },
+    {
+      "name": "卧龙",
+      "url": "https://wolongzyw.com/api.php/provide/vod/",
+      "detail": "https://wolongzyw.com",
+      "isAdult": false
+    },
+    {
+      "name": "虎牙",
+      "url": "https://huyazy.com/api.php/provide/vod/",
+      "detail": "https://huyazy.com",
+      "isAdult": false
+    },
+    {
+      "name": "淘片",
+      "url": "https://www.taopianzy.com/api.php/provide/vod/",
+      "detail": "https://www.taopianzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "ikun",
+      "url": "https://ikunzy.net/api.php/provide/vod/",
+      "detail": "https://ikunzy.net",
+      "isAdult": false
+    },
+    {
+      "name": "麒麟",
+      "url": "https://www.qilinzyz.com/api.php/provide/vod/",
+      "detail": "https://www.qilinzyz.com",
+      "isAdult": false
+    },
+    {
+      "name": "急速",
+      "url": "https://www.jisuzy.com/api.php/provide/vod/",
+      "detail": "https://www.jisuzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "豪华",
+      "url": "https://haohuazy.com/api.php/provide/vod/",
+      "detail": "https://haohuazy.com",
+      "isAdult": false
+    },
+    {
+      "name": "快车",
+      "url": "https://kuaichezy.com/api.php/provide/vod/",
+      "detail": "https://kuaichezy.com",
+      "isAdult": false
+    },
+    {
+      "name": "速播",
+      "url": "https://www.suboziyuan.net/api.php/provide/vod/",
+      "detail": "https://www.suboziyuan.net",
+      "isAdult": false
+    },
+    {
+      "name": "新浪",
+      "url": "https://www.xinlangzy.net/api.php/provide/vod/",
+      "detail": "https://www.xinlangzy.net",
+      "isAdult": false
+    },
+    {
+      "name": "光速",
+      "url": "https://guangsuzy.com/api.php/provide/vod/",
+      "detail": "https://guangsuzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "无尽",
+      "url": "https://www.wujinzy.net/api.php/provide/vod/",
+      "detail": "https://www.wujinzy.net",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰",
+      "url": "https://jinyingzy.com/api.php/provide/vod/",
+      "detail": "https://jinyingzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "魔都",
+      "url": "https://moduzy.com/api.php/provide/vod/",
+      "detail": "https://moduzy.com",
+      "isAdult": false
+    }
+  ],
+  "liveSources": []
+}
