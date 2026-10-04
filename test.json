@@ -187,13 +187,241 @@
       "url": "https://moduzy.com/api.php/provide/vod/",
       "detail": "https://moduzy.com",
       "isAdult": false
+    },
+    {
+      "name": "172云资源",
+      "url": "http://www.172zy.xyz/api.php/provide/vod/",
+      "detail": "http://www.172zy.xyz/",
+      "isAdult": false
+    },
+    {
+      "name": "豆瓣云资源",
+      "url": "http://www.dbzyz.com/api.php/provide/vod/",
+      "detail": "http://www.dbzyz.com/",
+      "isAdult": false
+    },
+    {
+      "name": "高清云资源",
+      "url": "http://www.gaoqingzy.com/api.php/provide/vod/",
+      "detail": "http://www.gaoqingzy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "八戒云资源",
+      "url": "http://bajieziyuan.com/api.php/provide/vod/",
+      "detail": "http://bajieziyuan.com/",
+      "isAdult": false
+    },
+    {
+      "name": "筋斗云资源",
+      "url": "http://www.jdyzy.cc/api.php/provide/vod/",
+      "detail": "http://www.jdyzy.cc/",
+      "isAdult": false
+    },
+    {
+      "name": "最快云资源",
+      "url": "http://zuikzy.com/api.php/provide/vod/",
+      "detail": "http://zuikzy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "卧龙云资源",
+      "url": "https://wolongzy.net/api.php/provide/vod/",
+      "detail": "https://wolongzy.net/",
+      "isAdult": false
+    },
+    {
+      "name": "最大云资源",
+      "url": "http://zuidazy.net/api.php/provide/vod/",
+      "detail": "http://zuidazy.net/",
+      "isAdult": false
+    },
+    {
+      "name": "酷酷云资源",
+      "url": "http://www.kuyun9.com/api.php/provide/vod/",
+      "detail": "http://www.kuyun9.com/",
+      "isAdult": false
+    },
+    {
+      "name": "永久云资源",
+      "url": "http://yongjiuzy.cc/api.php/provide/vod/",
+      "detail": "http://yongjiuzy.cc/",
+      "isAdult": false
+    },
+    {
+      "name": "资源片资源",
+      "url": "http://www.ziyuanpian.net/api.php/provide/vod/",
+      "detail": "http://www.ziyuanpian.net/",
+      "isAdult": false
+    },
+    {
+      "name": "精品云资源",
+      "url": "http://www.jingpinzy.com/api.php/provide/vod/",
+      "detail": "http://www.jingpinzy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "MP4吧资源",
+      "url": "http://www.mp4ba.com/api.php/provide/vod/",
+      "detail": "http://www.mp4ba.com/",
+      "isAdult": false
+    },
+    {
+      "name": "1977年云资源",
+      "url": "http://www.1977zy.com/api.php/provide/vod/",
+      "detail": "http://www.1977zy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "605云资源",
+      "url": "http://www.605zy.com/api.php/provide/vod/",
+      "detail": "http://www.605zy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "156云资源",
+      "url": "http://www.156zy.cc/api.php/provide/vod/",
+      "detail": "http://www.156zy.cc/",
+      "isAdult": false
+    },
+    {
+      "name": "97云资源",
+      "url": "http://www.97zyw.com/api.php/provide/vod/",
+      "detail": "http://www.97zyw.com/",
+      "isAdult": false
+    },
+    {
+      "name": "OK云资源",
+      "url": "http://api.iokzy.com/api.php/provide/vod/",
+      "detail": "http://api.iokzy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "129云资源",
+      "url": "http://www.129zy.com/api.php/provide/vod/",
+      "detail": "http://www.129zy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "最新云资源",
+      "url": "http://api.zuixinapi.com/api.php/provide/vod/",
+      "detail": "http://api.zuixinapi.com/",
+      "isAdult": false
+    },
+    {
+      "name": "几千客资源",
+      "url": "http://www.go1977.com/api.php/provide/vod/",
+      "detail": "http://www.go1977.com/",
+      "isAdult": false
+    },
+    {
+      "name": "极速云资源",
+      "url": "http://www.caijizy.com/api.php/provide/vod/",
+      "detail": "http://www.caijizy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "酷播云资源",
+      "url": "http://www.kubozy.net/api.php/provide/vod/",
+      "detail": "http://www.kubozy.net/",
+      "isAdult": false
+    },
+    {
+      "name": "帝国云资源",
+      "url": "http://www.yszydg.com/api.php/provide/vod/",
+      "detail": "http://www.yszydg.com/",
+      "isAdult": false
+    },
+    {
+      "name": "暧昧云资源",
+      "url": "http://imeizy.com/api.php/provide/vod/",
+      "detail": "http://imeizy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "百万云资源",
+      "url": "http://www.baiwanzy.com/api.php/provide/vod/",
+      "detail": "http://www.baiwanzy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "哈酷云资源",
+      "url": "http://haku77.com/api.php/provide/vod/",
+      "detail": "http://haku77.com/",
+      "isAdult": false
+    },
+    {
+      "name": "酷云资源",
+      "url": "http://kuyunzyw.net/api.php/provide/vod/",
+      "detail": "http://kuyunzyw.net/",
+      "isAdult": false
+    },
+    {
+      "name": "强强资源",
+      "url": "http://caiji.000o.cc/api.php/provide/vod/",
+      "detail": "http://caiji.000o.cc/",
+      "isAdult": false
+    },
+    {
+      "name": "6U云资源",
+      "url": "http://zy.ataoju.com/api.php/provide/vod/",
+      "detail": "http://zy.ataoju.com/",
+      "isAdult": false
+    },
+    {
+      "name": "TV6云资源",
+      "url": "http://v10.tv6.com/api.php/provide/vod/",
+      "detail": "http://v10.tv6.com/",
+      "isAdult": false
+    },
+    {
+      "name": "CKFLV云资源",
+      "url": "http://zy.vivcms.com/inc/api.php",
+      "detail": "http://zy.vivcms.com/",
+      "isAdult": false
+    },
+    {
+      "name": "1717云资源",
+      "url": "http://zy.itono.cn/api.php/provide/vod/",
+      "detail": "http://zy.itono.cn/",
+      "isAdult": false
+    },
+    {
+      "name": "91资源网",
+      "url": "http://www.91zy.cc/api.php/provide/vod/",
+      "detail": "http://www.91zy.cc/",
+      "isAdult": false
+    },
+    {
+      "name": "步步高顶尖资源网",
+      "url": "http://www.bbkdj.com/api.php/provide/vod/",
+      "detail": "http://www.bbkdj.com/",
+      "isAdult": false
+    },
+    {
+      "name": "贼快资源网",
+      "url": "http://www.zeikzy.com/api.php/provide/vod/",
+      "detail": "http://www.zeikzy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "1080资源网",
+      "url": "http://1080zy.com/api.php/provide/vod/",
+      "detail": "http://1080zy.com/",
+      "isAdult": false
+    },
+    {
+      "name": "花园影视资源网",
+      "url": "http://api.zz22x.com/api.php/provide/vod/",
+      "detail": "http://api.zz22x.com/",
+      "isAdult": false
+    },
+    {
+      "name": "青云资源",
+      "url": "http://qingyunzy.com/api.php/provide/vod/",
+      "detail": "http://qingyunzy.com/",
+      "isAdult": false
     }
   ],
-  "liveSources": [
-    {
-      "name": "示例直播源",
-      "url": "https://example.com/list.m3u",
-      "epg": "https://example.com/epg.xml.gz"
-    }
-  ]
+  "liveSources": []
 }
